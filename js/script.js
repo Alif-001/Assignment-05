@@ -82,6 +82,6 @@ function discount() {
     ).toFixed(1);
   } else {
     alert("please enter right code");
-    promoInput.value = "";
   }
+  promoInput.value = "";
 }
